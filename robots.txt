@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://appadaycreator.com/interior-style-quiz/sitemap.xml
