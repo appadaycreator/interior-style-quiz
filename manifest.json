@@ -1,8 +1,9 @@
 {
   "name": "Interior Style Quiz",
   "short_name": "interior-sty",
-  "start_url": "/",
+  "start_url": "/interior-style-quiz/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "scope": "/interior-style-quiz/"
 }
